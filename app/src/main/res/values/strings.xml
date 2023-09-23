@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Unknown</string>
+    <string name="name">Name:</string>
+    <string name="start">Start</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="what_should_we_call_you_learn_it_buddy">What should we call you, Learn It Buddy?</string>
 </resources>
