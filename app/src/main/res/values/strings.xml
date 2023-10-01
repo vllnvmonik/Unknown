@@ -4,4 +4,15 @@
     <string name="start">Start</string>
     <string name="welcome">WELCOME!</string>
     <string name="what_should_we_call_you_learn_it_buddy">What should we call you, Learn It Buddy?</string>
+    <string name="todo">TODO</string>
+    <string name="fullname">Zeena Bonnavie</string>
+    <string name="email">   zeenabonnavie@gmail.com</string>
+    <string name="logout">Logout</string>
+    <string name="phonenumber">09-369-8742-517</string>
+    <string name="address">Arellano Dagupan City</string>
+    <string name="bookings">Bookings</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
